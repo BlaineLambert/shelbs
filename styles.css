@@ -36,18 +36,19 @@ body{
     
     .header{
         text-align: center;
+        font-size: 32pt;
     }
     
     .newhair{
-        height: 400px;
+        height: 700px;
         position: absolute;
-        left: 16%;
-        top: 50%;
+        left: 45%;
+        top: 30%;
     }
     
     .reasons{
         text-align: center;
-        font-size: 18pt;
+        font-size: 28pt;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         padding: 20px;
     }
